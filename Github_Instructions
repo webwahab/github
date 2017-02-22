@@ -20,4 +20,5 @@ git commit -m "the performed change"
 #To show all the commint on one line: we should use the following: git log --pretty=oneline
 #To publish the change we should use: git push originm master
 #To pull changes from the public repository to the local one we should use the following: git pull
-
+#To create a new branch: we should use: git branch github2
+#To switch to the other branch we use: git checkout github2
