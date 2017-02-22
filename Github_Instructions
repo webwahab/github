@@ -25,4 +25,5 @@ git commit -m "the performed change"
 #To show the create branch we use: git branch
 #To merge from a branch to another we should go to the branch that we want merge the other branch in and type: git merge github2
 #To delete branch: git branch -d github2
-#
+#To delete the branch from GitHub: git push origin --delete github2
+
