@@ -17,6 +17,7 @@ git add name_file
 #To commit the change on the repository we should use commit 
 git commit -m "the performed change"
 #To show all the commit we use: git log
+#To show all the commint on one line: we should use the following: git log --pretty=oneline
 #To publish the change we should use: git push originm master
 #To pull changes from the public repository to the local one we should use the following: git pull
 
