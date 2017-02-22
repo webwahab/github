@@ -1,0 +1,18 @@
+##Github 
+
+# Create repository
+# install git using this command line in Ubuntu:
+sudo apt-get git
+# To clone a poject you should fist copy the http link of githup repository. After that you should use the commande clone 
+For example: git clone https://github.com/webwahab/github.git
+#Setting the global variable of the repository
+For the user name: git config user.name "Abdelwahab"
+For the Email: git config user.email "webwahab@gmail.com"
+To display one of the two for example:
+git config user.name
+# To get status of the repository: you should type the following command 
+git status
+# To add a file to repository:
+git add name_file
+
+
