@@ -16,5 +16,6 @@ git status
 git add name_file
 #To commit the change on the repository we should use commit 
 git commit -m "the performed change"
-
+#To show all the commit we use: git log
+#To publish the change we should use:
 
