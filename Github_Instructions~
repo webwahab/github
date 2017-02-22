@@ -23,3 +23,5 @@ git commit -m "the performed change"
 #To create a new branch: we should use: git branch github2
 #To switch to the other branch we use: git checkout github2
 #To show the create branch we use: git branch
+#To merge from a branch to another we should go to the branch that we want merge the other branch in and type: git merge github2
+#
